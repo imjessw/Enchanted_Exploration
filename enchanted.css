@@ -3,4 +3,10 @@ body{
 }
 ul{
 	list-style: none;
+	display: inline-block;
+}
+a{
+	display:inline-block;
+	min-height: 20px;
+	min-width: 20px; 
 }
