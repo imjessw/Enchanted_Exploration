@@ -6,9 +6,10 @@ body{
 }
 ul{
 	list-style: none;
+	display: inline-block;
 }
 li{
-	display: inline;
+	display: inline-block;
 }
 img{
 	display:inline-block;
@@ -16,5 +17,9 @@ img{
 	max-width: 250px; 
 }
 .navbar{
-	display: inline-block;
+	display: block;
+	margin: 0 auto;
+}
+.tAc{
+	text-align: center;
 }
