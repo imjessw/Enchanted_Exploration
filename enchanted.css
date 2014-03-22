@@ -1,12 +1,20 @@
 body{
-	background-color: blue; 
+	background-image:url('Images/nyc_sunset.JPG'); 
+	background-repeat: no-repeat;
+	background-size: 100%;
+	color:white;
 }
 ul{
 	list-style: none;
-	display: inline-block;
 }
-a{
+li{
+	display: inline;
+}
+img{
 	display:inline-block;
-	min-height: 20px;
-	min-width: 20px; 
+	max-height: 250px;
+	max-width: 250px; 
+}
+.navbar{
+	display: inline-block;
 }
