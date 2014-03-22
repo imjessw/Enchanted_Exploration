@@ -10,15 +10,22 @@ ul{
 }
 li{
 	display: inline-block;
+	margin-left: 10px;
+	margin-right: 10px;
+	font-size: 20px;
+	padding: 0 5px;
+
 }
 img{
 	display:inline-block;
 	max-height: 250px;
 	max-width: 250px; 
+	vertical-align: middle;
 }
 .navbar{
 	display: block;
 	margin: 0 auto;
+	font-family: 'Covered By Your Grace', cursive;
 }
 .tAc{
 	text-align: center;
