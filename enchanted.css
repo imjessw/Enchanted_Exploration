@@ -30,3 +30,11 @@ img{
 .tAc{
 	text-align: center;
 }
+
+/*Custom Classes*/
+.left{
+	float: left;
+}
+.right{
+	float: right;
+}
