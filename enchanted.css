@@ -3,6 +3,8 @@ body{
 	background-repeat: no-repeat;
 	background-size: 100%;
 	color:white;
+	margin-right: 0;
+	margin-left: 0;
 }
 ul{
 	list-style: none;
@@ -29,6 +31,21 @@ img{
 }
 .tAc{
 	text-align: center;
+}
+p{
+	font-family: 'Covered By Your Grace', cursive;
+}
+
+footer{
+	background-color: black;
+	color: white;
+	text-align: center;
+	vertical-align: middle;
+	bottom: 0;
+	height: 30px;
+	position: fixed;
+	width: 100%;
+
 }
 
 /*Custom Classes*/
